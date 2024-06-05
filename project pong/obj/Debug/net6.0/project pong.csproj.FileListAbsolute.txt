@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Документи\GitHub\project\project pong\bin\Debug\net6.0\project pong.exe
+C:\Users\User\OneDrive\Документи\GitHub\project\project pong\bin\Debug\net6.0\project pong.deps.json
+C:\Users\User\OneDrive\Документи\GitHub\project\project pong\bin\Debug\net6.0\project pong.runtimeconfig.json
+C:\Users\User\OneDrive\Документи\GitHub\project\project pong\bin\Debug\net6.0\project pong.dll
+C:\Users\User\OneDrive\Документи\GitHub\project\project pong\bin\Debug\net6.0\project pong.pdb
+C:\Users\User\OneDrive\Документи\GitHub\project\project pong\obj\Debug\net6.0\project pong.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документи\GitHub\project\project pong\obj\Debug\net6.0\project pong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документи\GitHub\project\project pong\obj\Debug\net6.0\project pong.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документи\GitHub\project\project pong\obj\Debug\net6.0\project pong.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документи\GitHub\project\project pong\obj\Debug\net6.0\project pong.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документи\GitHub\project\project pong\obj\Debug\net6.0\project pong.dll
+C:\Users\User\OneDrive\Документи\GitHub\project\project pong\obj\Debug\net6.0\refint\project pong.dll
+C:\Users\User\OneDrive\Документи\GitHub\project\project pong\obj\Debug\net6.0\project pong.pdb
+C:\Users\User\OneDrive\Документи\GitHub\project\project pong\obj\Debug\net6.0\project pong.genruntimeconfig.cache
+C:\Users\User\OneDrive\Документи\GitHub\project\project pong\obj\Debug\net6.0\ref\project pong.dll
